@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Habib Charfeddine</h1>
 <h3 align="center">A passionate Data Scientist from Tunisia</h3>
-<img align="right" alt="https://149695847.v2.pressablecdn.com/wp-content/uploads/2018/12/developer-dribbble.gif">
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibcharfeddine&label=Profile%20views&color=0e75b6&style=flat" alt="habibcharfeddine" /> </p>
 
