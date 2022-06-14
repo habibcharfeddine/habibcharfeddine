@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **habib.charfeddine@gmail.com**
 
-- ⚡ Fun fact **Data Addict who's willing to take over the world**
+- ⚡ Fun fact **I am a Data Addict who's willing to take over the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
