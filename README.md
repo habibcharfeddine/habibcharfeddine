@@ -1,6 +1,7 @@
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 <h1 align="center">Hi 👋, I'm Habib Charfeddine</h1>
 <h3 align="center">A passionate Data Scientist from Tunisia</h3>
-<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif">
+<img align="right" src="https://www.bypeople.com/wp-content/uploads/2019/03/people-at-work.gif" width="400" length="400">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=habibcharfeddine&label=Profile%20views&color=0e75b6&style=flat" alt="habibcharfeddine" /> </p>
